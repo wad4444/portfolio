@@ -61,11 +61,7 @@ export default function Contacts() {
   const { ref } = useSectionInView('Contact', 1)
 
   return (
-    <section
-      className="max-w-[30rem] mb-10 scroll-mt-[100rem] text-center"
-      id="contact"
-      ref={ref}
-    >
+    <section className="max-w-[30rem] mb-10 text-center" id="contact" ref={ref}>
       <SectionHeading>Contact Me</SectionHeading>
       <p className="pb-6">
         You can <span className="font-medium">contact me</span> through
