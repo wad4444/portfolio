@@ -49,7 +49,7 @@ export type ContactLabelData = (typeof contactsData)[number]
 export const contactsData = [
   {
     name: 'Discord',
-    text: '@g1mmethemoney',
+    text: '@wad4444',
     icon: discord,
     url: 'https://discord.com/users/343061601831616522',
   },
