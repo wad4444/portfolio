@@ -36,11 +36,9 @@ export default function About() {
         working <span className="font-medium">on achieving my goals.</span> I
         treat roblox development <span className="font-medium">as my job</span>{' '}
         and looking forward some{' '}
-        <span className="font-medium">serious offers</span> with an{' '}
-        <span className="font-medium">
-          understandable and fair amount of payment
-        </span>{' '}
-        for my skills.
+        <span className="font-medium">serious offers</span>{' '}
+        <span className="font-medium">with fair amount of payment</span> for my
+        skills.
       </p>
     </motion.section>
   )

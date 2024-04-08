@@ -76,4 +76,5 @@ export const skillsData: LinkTuple[] = [
   ['Flamework', 'https://flamework.fireboltofdeath.dev/'],
   ['Github', 'https://github.com/'],
   ['Git', 'https://git-scm.com/'],
+  ['Promise', 'https://eryn.io/roblox-lua-promise/'],
 ] as const
