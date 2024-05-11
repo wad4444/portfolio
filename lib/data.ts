@@ -33,7 +33,7 @@ export const projectsData = [
       'I have created a popular open source combat-system framework that allows you to easily build your advanced combat systems.',
     tags: ['Roblox-Ts', 'Typescript', 'Reflex', 'Wally', 'Docusaurus'],
     imageUrl: wcs,
-    url: 'https://g1mmethemoney.github.io/WCS/',
+    url: 'https://wad4444.github.io/WCS/',
   },
   {
     title: 'Topbar-Plus',

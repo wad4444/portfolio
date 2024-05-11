@@ -89,7 +89,7 @@ export default function Intro() {
         </Link>
 
         <a
-          href="https://github.com/g1mmethemoney"
+          href="https://github.com/wad4444"
           target="_blank"
           className="bg-white p-4 flex items-center gap-2 text-[1.35rem] focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition border border-black/10 cursor-pointer rounded-full"
         >
