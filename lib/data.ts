@@ -1,6 +1,7 @@
 import wcs from '@/public/wcs.png'
 import topbarplus from '@/public/topbarplus.jpeg'
 import discord from '@/public/discord.svg'
+import refx from '@/public/refx.png'
 import devforum from '@/public/devforum.svg'
 
 export const links = [
@@ -48,7 +49,7 @@ export const projectsData = [
     description:
       'One of my open source projects. 💖 A library for Replicating Visual Effects in Roblox.',
     tags: ['Wally', 'LuaU', 'Lune', 'Rojo'],
-    imageUrl: topbarplus,
+    imageUrl: refx,
     url: 'https://devforum.roblox.com/t/refx-a-library-for-replicating-visual-effects-in-roblox/2961747',
   },
 ] as const
