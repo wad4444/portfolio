@@ -43,6 +43,14 @@ export const projectsData = [
     imageUrl: topbarplus,
     url: 'https://devforum.roblox.com/t/v3-topbarplus-v300-construct-intuitive-topbar-icons-customise-them-with-themes-dropdowns-captions-labels-and-much-more/1017485',
   },
+  {
+    title: 'Refx',
+    description:
+      'One of my open source projects. 💖 A library for Replicating Visual Effects in Roblox.',
+    tags: ['Wally', 'LuaU', 'Lune', 'Rojo'],
+    imageUrl: topbarplus,
+    url: 'https://devforum.roblox.com/t/refx-a-library-for-replicating-visual-effects-in-roblox/2961747',
+  },
 ] as const
 
 export type ContactLabelData = (typeof contactsData)[number]
