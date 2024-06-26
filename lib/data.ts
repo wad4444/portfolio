@@ -36,14 +36,14 @@ export const projectsData = [
     imageUrl: wcs,
     url: 'https://devforum.roblox.com/t/wcs-a-combat-system-framework/2843521',
   },
-  {
+  /*{
     title: 'Topbar-Plus',
     description:
       'I am a maintainer for @rbxts/topbar-plus package typings and an official contributor to a widely used and popular library topbar-plus.',
     tags: ['Wally', 'LuaU', 'Typescript', 'Rojo'],
     imageUrl: topbarplus,
     url: 'https://devforum.roblox.com/t/v3-topbarplus-v300-construct-intuitive-topbar-icons-customise-them-with-themes-dropdowns-captions-labels-and-much-more/1017485',
-  },
+  },*/
   {
     title: 'Refx',
     description:
