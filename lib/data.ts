@@ -1,5 +1,4 @@
 import wcs from '@/public/wcs.png'
-import topbarplus from '@/public/topbarplus.jpeg'
 import discord from '@/public/discord.svg'
 import refx from '@/public/refx.png'
 import devforum from '@/public/devforum.svg'
