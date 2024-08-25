@@ -24,7 +24,7 @@ export default function About() {
         over than <span className="font-medium">3 years</span> of experience.
         I'm very passionate about OSS projects and{' '}
         <span className="font-medium">maintaining a few myself</span>. I utilize{' '}
-        <span className="font-medium">industry standart</span> modern tools in
+        <span className="font-medium">industry standard</span> modern tools in
         my workflow, such as{' '}
         <span className="font-medium">Rojo and Roblox-Ts</span> to build my{' '}
         <span className="font-medium">personal projects</span> or{' '}
