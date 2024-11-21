@@ -39,7 +39,7 @@ export const projectsData = [
     title: 'Topbar-Plus',
     description:
       'I am a maintainer for @rbxts/topbar-plus package typings and an official contributor to a widely used and popular library topbar-plus.',
-    tags: ['Wally', 'LuaU', 'Typescript', 'Rojo'],
+    tags: ['Wally', 'Luau', 'Typescript', 'Rojo'],
     imageUrl: topbarplus,
     url: 'https://devforum.roblox.com/t/v3-topbarplus-v300-construct-intuitive-topbar-icons-customise-them-with-themes-dropdowns-captions-labels-and-much-more/1017485',
   },*/
@@ -47,7 +47,7 @@ export const projectsData = [
     title: 'Refx',
     description:
       'One of my open source projects. 💖 A library for Replicating Visual Effects in Roblox.',
-    tags: ['Wally', 'LuaU', 'Lune', 'Rojo'],
+    tags: ['Wally', 'Luau', 'Lune', 'Rojo'],
     imageUrl: refx,
     url: 'https://devforum.roblox.com/t/refx-a-library-for-replicating-visual-effects-in-roblox/2961747',
   },
@@ -80,7 +80,7 @@ export const skillsData: LinkTuple[] = [
   ['Reflex', 'https://littensy.github.io/reflex/'],
   ['Fusion', 'https://elttob.uk/Fusion/0.2/'],
   ['Lua', undefined],
-  ['LuaU', 'https://luau-lang.org/'],
+  ['Luau', 'https://luau-lang.org/'],
   ['Flamework', 'https://flamework.fireboltofdeath.dev/'],
   ['Github', 'https://github.com/'],
   ['Git', 'https://git-scm.com/'],
